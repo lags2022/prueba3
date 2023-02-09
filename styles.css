@@ -4,6 +4,7 @@
 
 html {
   scroll-behavior: smooth;
+  background-color: rgb(245, 245, 245);
 }
 
 body {
@@ -102,7 +103,7 @@ header a:hover {
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
     ),
-    url("https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/06/173866-que-lenguajes-programacion-utilizan-hackers.jpg?tf=3840x");
+    url("https://www.aauniv.com/s/blog/wp-content/uploads/2022/03/lenguajes-de-programacion.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -156,7 +157,7 @@ header a:hover {
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
     ),
-    url("https://3.bp.blogspot.com/-7GlIsngPxWg/V1dUJqwaj0I/AAAAAAAAB_U/RxEf8GEXfNYhOT5ufEYblIpX9yCWDx9xwCLcB/s1600/password-hack2.jpg");
+    url("https://concepto.de/wp-content/uploads/2018/09/lenguaje-de-programaci%C3%B3n-e1537466894547.jpg");
   background-position: center;
 }
 
@@ -166,7 +167,7 @@ header a:hover {
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
     ),
-    url("https://i0.wp.com/ciberninjas.com/wp-content/uploads/2022/08/lenguajes-hacking-etico.webp?w=1920&ssl=1");
+    url("https://www.enter.co/wp-content/uploads/2021/08/4884785-1104x621.jpg");
 }
 
 .carta:nth-child(3) {
@@ -175,7 +176,7 @@ header a:hover {
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
     ),
-    url("https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2016/11/205544-hacker.jpg?tf=3840x");
+    url("https://lh3.googleusercontent.com/XSDv6XYZ973bdxMBDJ1adLHpSSUv4vsZJaePpms21eZDl-27JIfTHIYXnnudwPfAg_1-59bKAarMhWGNagsTR2Gq0pAWBUw6CwYwH2V0TzDXZT9z1fKvr1vCOrk8nxZ-U7wVfOJq");
 }
 
 #np p {
@@ -222,7 +223,7 @@ footer .container {
   display: flex;
   justify-content: center;
   align-items: flex-end;
-  background-color: rgb(230, 230, 230);
+  background-color: rgb(245, 245, 245);
 }
 
 @media (min-width: 720px) {
@@ -251,7 +252,7 @@ footer .container {
   }
 
   #programa_ya .img_container {
-    background-image: url("https://i0.wp.com/ciberninjas.com/wp-content/uploads/2021/06/hack-3-habilidades-1.webp?w=1920&ssl=1");
+    background-image: url("https://lh6.googleusercontent.com/9wsjeDRz5ThJ9EjMe1aiICofKe3LE5RNRTHRo-WIVUppp2JpzuuLkpSJkl4Uu_YNvMGvnuVeBfyq5w5dfJ8JxXUiJaP5w4F3H-8xf_7yHoOvloCcEOgR1U2UNVf8LhULESF7YzXT");
     background-position: center;
     background-size: cover;
     height: 250px;
@@ -301,7 +302,7 @@ footer .container {
   }
 
   #caracteristicas {
-    background-image: url("https://4.bp.blogspot.com/-lJsurWS_rNM/U5qLi05Nx2I/AAAAAAAACrQ/xkGRbD94te8/s1600/hacking.jpg");
+    background-image: url("https://www.fundaciontelefonica.com/wp-content/uploads/2016/07/programacion-730x400.jpg");
     background-repeat: no-repeat;
     background-size: 300px 200px;
     background-position: calc(100vw - 500px) 180px;
